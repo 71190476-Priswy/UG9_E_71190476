@@ -1,0 +1,6 @@
+alasAts = int (input ("masukkan alas atas :"));
+AlasBwh = int (input ("masukkan alas bawah :"));
+Tinggi = int (input ("masukkan tinggi:"));
+Luas =(((alasAts+AlasBwh)/2)*Tinggi);
+print ("Luas Trapesium", Luas);
+
