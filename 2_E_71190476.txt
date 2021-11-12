@@ -1,0 +1,8 @@
+A = str(input(" Nama :"));
+B =str(input("Tempat tanggal lahir :"))
+
+Nama2 =(A[-8:]);
+Nama1 =(A[:7]);
+Membalik = Nama2 + Nama1
+print("Haloo!",Nama2,",",Nama1);
+print("Anda lahir di",B)
