@@ -1,0 +1,5 @@
+a = int (input ("Mskn nilai suku pertama:"))
+n = int (input ("Mskn suku yang dicari:"))
+r = int (input ("Mskn Rasio tiap suku:"))
+un = a*r**(n-1)
+print("hasil jumlah suku ke-11 dari deret 1, 3, 9, 27, 81, adalah :", un)
